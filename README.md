@@ -4,9 +4,9 @@ This is a convenience utility for generating Kotlin declarations from TypeScript
 
 ## Instructions 
 
-1. Search for a TypeScript definition from the DefinitelyTypes repository
+1. Search for a TypeScript definition from the DefinitelyTyped repository
 
->> Search for types @ https://microsoft.github.io/TypeSearch/
+> Search for types @ https://microsoft.github.io/TypeSearch/
 
 2. Install the TypeScript defintion file
 
