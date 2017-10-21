@@ -12,9 +12,6 @@ This is a convenience utility for generating Kotlin declarations from TypeScript
 
 ```shell
 $> yarn add @types/<package_name> --dev
-
-example:
-    $> yarn add @types/express --dev
 ```
 
 3. Generate Kotlin declarations
