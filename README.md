@@ -1,9 +1,12 @@
 # TypeScript Kotlin Wrappers
 
+This is a convenience utility for generating Kotlin declarations from TypeScript definitions.
+
+## Instructions 
+
 1. Search for a TypeScript definition from the DefinitelyTypes repository
 
-Search for types here
-https://microsoft.github.io/TypeSearch/
+>> Search for types @ https://microsoft.github.io/TypeSearch/
 
 2. Install the TypeScript defintion file
 
